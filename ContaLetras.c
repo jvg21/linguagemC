@@ -1,3 +1,4 @@
+//Mostra a quantidade de ocorrencias de cada letra num arquivo texto
 #include <stdio.h>
 #include <stdlib.h>
 
