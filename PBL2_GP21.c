@@ -3,13 +3,11 @@ PBL C2
 
 Grupo 21
 Nome:João Vitor Gregorini
-Nome:João Victor Ribeiro Basso
 Nome:Giovanni Lucca Reque Uchôa
-Nome: Bruno Renan Guttervill
 *****************************************/
 /*****************************************
 
-  Exercício 1
+  Exercício 1 - Conta a quantidade de vogais e consoantes digitadas
 
 *****************************************/
 #include <stdio.h>
@@ -54,7 +52,7 @@ int exe1(){
 }
 /*****************************************
 
-  Exercício 2
+  Exercício 2 - imprime os multiplos de 3 dentre o limite especificado
 
 *****************************************/
 int exe2(void){
