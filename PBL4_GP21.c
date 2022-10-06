@@ -1,5 +1,5 @@
 /***************************************
-PBL C3
+PBL C4
 
 Grupo 21
 Nome:João Vitor Gregorini
@@ -9,7 +9,7 @@ Nome: Bruno Renan Guttervill
 *****************************************/
 /*****************************************
 
-  Exercício 1
+  Exercício 1 - mostra quais pintores estão relacionados a cada mês 
 
 *****************************************/
 #include <stdio.h>
