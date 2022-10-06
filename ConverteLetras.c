@@ -1,3 +1,4 @@
+//Cria um novo arquivo txt com todas as letras maiusculas
 #include <stdio.h>
 #include <stdlib.h>
 
