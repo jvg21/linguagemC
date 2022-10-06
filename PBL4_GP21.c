@@ -3,9 +3,7 @@ PBL C4
 
 Grupo 21
 Nome:João Vitor Gregorini
-Nome:João Victor Ribeiro Basso
 Nome:Giovanni Lucca Reque Uchôa
-Nome: Bruno Renan Guttervill
 *****************************************/
 /*****************************************
 
