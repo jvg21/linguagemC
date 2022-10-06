@@ -3,13 +3,11 @@ PBL C3
 
 Grupo 21
 Nome:João Vitor Gregorini
-Nome:João Victor Ribeiro Basso
 Nome:Giovanni Lucca Reque Uchôa
-Nome: Bruno Renan Guttervill
 *****************************************/
 /*****************************************
 
-  Exercício 1
+  Exercício 1 - mostra o elemento selecionado da sequencia de Fibonacci
 
 *****************************************/
 #include <stdio.h>
